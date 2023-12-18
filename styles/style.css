@@ -17,7 +17,7 @@
 body{
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: var (--cor-princinpal);
+    background-color: var(--cor-princinpal);
     color: var(--cor-segundaria);
 }
 
