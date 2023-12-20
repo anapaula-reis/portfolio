@@ -77,11 +77,12 @@ body{
 }
 
 
-.apresentacao__conteudo__titulo{
-    font-size: 36px 100%;
-    font-family:'Hedvig Letters Serif', serif; ;
+@media only screen and (max-width: 900px) {
+    .apresentacao__conteudo__titulo {
+        font-size: 36px;
+        font-family:'Hedvig Letters Serif', serif; 
+    }
 }
-
 .apresentacao__conteudo__paragrafo{
     font-size: 100%;
     display: flex;
